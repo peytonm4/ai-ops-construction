@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiOpsPlatform.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1233cf2a03ec9ac4a82c14b2097e3ff21a803f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaba7ac9d44e808c72f7daf253d947e73327e8a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiOpsPlatform.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiOpsPlatform.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
